@@ -1,4 +1,4 @@
-package array.easy;
+package array;
 
 import java.util.Arrays;
 
@@ -9,8 +9,9 @@ import java.util.Arrays;
  *
  * 注意：你不能同时参与多笔交易（你必须在再次购买前出售掉之前的股票）。
  *
+ * 链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii
  */
-public class 买卖股票的最佳时机II {
+public class 买卖股票的最佳时机II_简单 {
 
     /**
      * 示例 1:
