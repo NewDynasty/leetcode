@@ -12,10 +12,12 @@
  - https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
  - 主要考察对题意的理解
  
- 2020-07-02 day4
-  - 旋转数组_简单
-  - https://leetcode-cn.com/problems/rotate-array
- 
- 2020-07-03 day5
-  - 多数元素_简单
-  - https://leetcode-cn.com/problems/majority-element/
+2020-07-02 day4
+ - 旋转数组_简单
+ - https://leetcode-cn.com/problems/rotate-array
+ - 多观察数字之间的联系
+ - 优化策略：环状替换 -> solve3_rotate
+
+2020-07-03 day5
+ - 多数元素_简单
+ - https://leetcode-cn.com/problems/majority-element/
