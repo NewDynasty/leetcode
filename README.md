@@ -21,3 +21,7 @@
 2020-07-03 day5
  - 多数元素_简单
  - https://leetcode-cn.com/problems/majority-element/
+ 
+2020-07-08 day6
+ - 存在重复元素_简单
+ - https://leetcode-cn.com/problems/contains-duplicate
