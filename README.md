@@ -33,3 +33,7 @@
 2020-07-08 day8
  - 存在重复元素iii_中等
  - https://leetcode-cn.com/problems/contains-duplicate-iii
+ 
+2020-07-13 day9
+ - 寻找数组的中心索引_简单
+ - https://leetcode-cn.com/problems/find-pivot-index 
