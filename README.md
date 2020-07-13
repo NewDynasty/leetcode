@@ -36,4 +36,8 @@
  
 2020-07-13 day9
  - 寻找数组的中心索引_简单
- - https://leetcode-cn.com/problems/find-pivot-index 
+ - https://leetcode-cn.com/problems/find-pivot-index
+
+2020-07-13 day10
+ - 长度最小的子数组_中等
+ - https://leetcode-cn.com/problems/minimum-size-subarray-sum
