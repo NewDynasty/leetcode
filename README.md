@@ -45,3 +45,7 @@
 2020-07-16 day11
  - 无重复字符的最长子串_中等
  - https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
+
+2020-07-16 day12
+ - 区域和检索 - 数组不可变_简单
+ - https://leetcode-cn.com/problems/range-sum-query-immutable/
